@@ -8,6 +8,7 @@ image:
   caption: NASA
 ---
 
+[PDF](/static/uploads/StatisticsGFLA.pdf)
 Welcome to the _Second Brain_ template!
 
 The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
